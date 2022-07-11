@@ -1,4 +1,4 @@
-# MaratonaExplorer
+# Maratona Explorer 2.0
 Site desenvolvido na Maratona Explorer da Rocketseat
 
 ![Screenshot_5](https://user-images.githubusercontent.com/84508964/178306837-2090cd8d-4f6f-4251-9b67-99150b10990e.jpg)
